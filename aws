@@ -1,0 +1,6 @@
+Set password in ubuntu machine
+
+https://stackoverflow.com/questions/51667876/ec2-ubuntu-14-default-password
+
+sudo su -
+passwd ubuntu
